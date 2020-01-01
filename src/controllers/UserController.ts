@@ -1,5 +1,5 @@
 import { Request, Response } from 'express'
-import User from './../Shemas/User'
+import User from './../shemas/User'
 
 class UserController {
 
